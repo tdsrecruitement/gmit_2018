@@ -11,10 +11,10 @@ You need to do the following:
    
    ```
    Positive Keywords
-   [happy, joy, contentment, pleasure, contentedness]
+   [happy, joy, contentment, pleasure, contentedness, love, awesome, amazing, cool, crazy, jaw-dropping, phenomenal]
 
    Negative Keywords
-   [unhappy, sorrowful, dejected, regretful, depressed, downcast, miserable, poor, bad, worse]
+   [unhappy, sorrowful, unsatisfactory, regretful, depressed, downcast, miserable, poor, bad, worse, hell, disgusting, waste]
    ```
 3. Frequency of Positive keywords in a sentence
 4. Freq of Negative keywords sentence
