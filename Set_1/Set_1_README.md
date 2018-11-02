@@ -6,7 +6,7 @@ You need to find the SMS which can be categorized as SPAM (fraud) or HAM (genuin
 
 The following are the tasks you need to do in this assignments:
 
-1. Download Dataset 
+1. Download [Dataset](SMSSpamCollection_dataset.csv)
 2. Find the Spam SMS from the dataset based on keywords
     * Sample SPAM keyword (free, jackpot, winner, ...)
 3. Find HAMs from the dataset based on words. HAM are those SMS, which do not contain words defined in spam keywords
@@ -15,7 +15,7 @@ The following are the tasks you need to do in this assignments:
   
     | id | SMS  | Tag |
     | -- | ---  | --- |
-    | 12 | Ok lar... Joking wif u oni...			| SPAM |
+    | 12 | Ok lar... Joking wif u oni...			| HAM |
     | 12 | Thanks for your subscription to Ringtone UK your mobile will be charged £5/month		| SPAM |
 5. Get frequency of each SPAM keywords in each 
    SMS
