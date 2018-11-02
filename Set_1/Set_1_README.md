@@ -43,3 +43,13 @@ The following are the tasks you need to do in this assignments:
     ```
 
 7. Show top 5 spam sentences based on weights. 
+
+
+### Library Reference
+
+For Charts :
+-   https://plot.ly/python/
+
+For Data Structures
+- https://www.w3schools.com/python/python_dictionaries.asp
+- https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python

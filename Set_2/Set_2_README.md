@@ -35,3 +35,13 @@ fltrd_line: sample line some dataset representing meaningful text
 7. Plot a bar graph with top 5 words.
    
 8. Plot a pie chart with top 5 words.
+
+
+### Library Reference
+
+For Charts :
+-   https://plot.ly/python/
+
+For Data Structures
+- https://www.w3schools.com/python/python_dictionaries.asp
+- https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python

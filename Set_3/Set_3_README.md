@@ -6,7 +6,7 @@ In this assignment you are given with a dataset, containing text/reviews/convers
 
 You need to do the following:
 
-1. Download Dataset
+1. Download [Dataset](sentiment_dataset.txt)
 2. Given below is a Sentiment array
    
    ```
@@ -42,3 +42,12 @@ You need to do the following:
 9. Plot Bar chart for negative (X: Keywords, Y: Frequency count of keywords)
 		find all the frequency of positive keywords in the dataset
 		plot the top 5 keywords with their frequncy
+
+### Library Reference
+
+For Charts :
+-   https://plot.ly/python/
+
+For Data Structures
+- https://www.w3schools.com/python/python_dictionaries.asp
+- https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
