@@ -9,3 +9,6 @@ List of Assignments:
 3. Set_3
 
 Each set contains a unique set of coding assignments that you need to complete individually  for clearing the first round of selection process.
+
+Clone the repositories in your local machine with below command
+  `git clone https://github.com/tdsrecruitement/gmit_2018`
