@@ -4,7 +4,7 @@ The follwing dataset is a unstructured data, common in Big Data realm.
 
 You need to do the Following in this assignment:
 
-1. Download Dataset
+1. Download [Dataset](set2_dataset.txt)
 2. Clean the Dataset (for each sentence)
     * remove blank lines from the dataset
     * remove one or multiple special characters from each sentence.
