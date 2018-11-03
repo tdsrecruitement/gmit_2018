@@ -32,15 +32,13 @@ Line: This is a sample line, in some dataset reperesenting meaningful text.
 Expected output:
 fltrd_line: sample line some dataset representing meaningful text
 ```
-1. Get count of all word frequency in the dataset.
-    
-2. Word should contain atleast four characters.
+4. Get count of all word frequency in the dataset. Word should contain atleast four characters.
    
-3. Show top 5 words having maximum frequency.
+5. Show top 5 words having maximum frequency.
    
-4. Plot a bar graph with top 5 words.
+6. Plot a bar graph with top 5 words.
    
-5. Plot a pie chart with top 5 words.
+7. Plot a pie chart with top 5 words.
 
 
 ### Library Reference
