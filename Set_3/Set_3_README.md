@@ -11,10 +11,10 @@ You need to do the following:
    
    ```
    Positive Keywords
-   [happy, joy, contentment, pleasure, contentedness, love, awesome, amazing, cool, crazy, pretty , jaw-dropping, phenomenal]
+   [happy, joy, enjoy, contentment, pleasure, contentedness, love, awesome, amazing, cool, crazy, pretty , jaw-dropping, phenomenal]
 
    Negative Keywords
-   [unhappy, sorrowful, unsatisfactory, regretful, depressed, downcast, miserable, poor, bad, worse, hell, disgusting, waste]
+   [unhappy, sorrowful, unsatisfactory, regretful, depressed, downcast, miserable, poor, bad, worse,worst, hell, disgusting, waste]
    ```
 3. Frequency of both Positive and negative keywords in a line. A line can contain multiple sentences
 
@@ -24,23 +24,23 @@ You need to do the following:
 ```
 	text : "This product is really awesome, I'm loving it. Awesome Build quality. Poor delivery time."
 
-	Positive Keywords: [Awesome, Loving]
+	Positive Keywords: [awesome, loving]
 
-    Negative Keywords: [Poor]
+    Negative Keywords: [poor]
 
 	Positive Weight: 
     frequency of (awesome) + frequency of (loving) = 2 + 1 = 3
 
     Negative Weight: frequency of (poor) = 1
 ```
-6. Find the Sentences having Positive Weight greater than 2
+6. Find the Sentences having Positive Weight greater than or equal to 2
    
    
-7. Plot Bar chart for positive (X: Keywords, Y: Frequency count of keywords)
+7. Plot Bar chart for positive keywords (X: Keywords, Y: Frequency count of keywords)
 		find all the frequency of positive keywords in the dataset
 		plot the top 5 keywords with their frequency
 
-8. Plot Bar chart for negative (X: Keywords, Y: Frequency count of keywords)
+8. Plot Bar chart for negative keywords (X: Keywords, Y: Frequency count of keywords)
 		find all the frequency of negative keywords in the dataset
 		plot the top 5 keywords with their frequency
 
