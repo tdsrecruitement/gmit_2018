@@ -8,6 +8,9 @@ You need to do the Following in this assignment:
 2. Clean the Dataset (for each sentence)
     * remove blank lines from the dataset
     * remove one or multiple special characters from each sentence.
+    ```
+    " !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
+    ```
 3. Remove stop words from all the sentences in the dataset without using any library.
    
    In computing, stop words are words which are filtered out before or after processing of natural language data (text) Example (the, is , and ,..). 
