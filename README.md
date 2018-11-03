@@ -10,6 +10,7 @@ List of Assignments:
 
 Each set contains a unique set of coding assignments that you need to complete individually  for clearing the first round of selection process.
 
-Clone the repositories in your local machine with below command
+Clone the repositories in your local machine with below command.
+You can also download the same from download link in the repository.
 
 `git clone https://github.com/tdsrecruitement/gmit_2018`
